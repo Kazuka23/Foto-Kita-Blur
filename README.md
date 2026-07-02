@@ -1,6 +1,6 @@
-# ✌️ Foto Kita Blur — Hand Gesture Blur Cam
+# ✌️ Foto Kita Blur: Hand Gesture Blur Cam
 
-> Ikutin tren TikTok "Foto Kita Blur" pakai Computer Vision langsung dari kamera kamu. Saat tangan dengan jari terangkat terdeteksi, layar otomatis blur — hilangkan tanganmu, layar kembali jernih.
+> Waktu itu fyp gw isinya trend "foto kita blur semua", terus yang menarik ada yang bikin pake python, tapi pas gw cari code pythonnya gaada yang ngasih, alhasil gw coba bikin. Logika nya sederhana, kalo ada isyarat jari atau ada pose dari tangan dan terdeteksi pake anatomi webcam otomatis blur. Sebaliknya, kalo anatomi ga ngedeteksi ada jari atau pose ya webcam jernih.
 
 <div align="center">
 
@@ -233,7 +233,7 @@ mediapipe==0.10.9
 
 Kalau project ini bermanfaat buat kamu, kamu bisa support via:
 
-[![Saweria](https://img.shields.io/badge/Donate-Saweria-orange?style=for-the-badge)](https://saweria.co/Kazuka23)
+[![Saweria](https://img.shields.io/badge/Donate-Saweria-orange?style=for-the-badge)](https://saweria.co/siryagami)
 
 ---
 
