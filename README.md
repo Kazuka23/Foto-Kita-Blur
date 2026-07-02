@@ -80,7 +80,7 @@ Pilih salah satu:
 
 **Opsi A — Pakai Git:**
 ```bash
-git clone https://github.com/Kazuka23/foto-kita-blur.git
+git clone https://github.com/Kazuka23/Foto-Kita-Blur.git
 cd foto-kita-blur
 ```
 
